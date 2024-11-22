@@ -18,8 +18,8 @@ export default function Hero() {
                 <p className='text-2xl'>{config.subtitle}</p>
             </h1>
             <div className='flex py-10'>
-                <a href={config.social.twitter} className='pr-5 hover:text-white'><AiOutlineTwitter size={40} /></a>
-                <a href={config.social.facebook} className='pr-5 hover:text-white'><AiOutlineFacebook size={40}/></a>
+               // <a href={config.social.twitter} className='pr-5 hover:text-white'><AiOutlineTwitter size={40} /></a>
+                //<a href={config.social.facebook} className='pr-5 hover:text-white'><AiOutlineFacebook size={40}/></a>
                 <a href={config.social.linkedin} className='hover:text-white'><AiOutlineLinkedin size={40}/></a>
             </div>
        </div>
